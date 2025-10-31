@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **atharva-dev1/atharva-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +26,9 @@ I’m a passionate and detail-oriented developer who enjoys transforming innovat
 ---
 
 🛠️ **Tech Stack**  
-**Frontend:** HTML5 • CSS3 • JavaScript • React.js  
-**Backend:** Node.js • Express.js • Firebase  
-**Tools:** Git • GitHub • VS Code • Figma • Pycharm  
+**Frontend:** HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Bootstrap  
+**Backend:** Node.js • Express.js • NestJS • MongoDB   
+**Tools:** Git • GitHub • VS Code • Figma • Pycharm • Vercel • Lovable • Cursor 
 
 ---
 
@@ -44,7 +43,7 @@ I’m a passionate and detail-oriented developer who enjoys transforming innovat
 
 📫 **Let’s Connect**  
 📧 Email: [2431560atharva@gmail.com](mailto:2431560atharva@gmail.com)  
-💼 [GitHub](#) • [LinkedIn](#) • 🌐 [Portfolio](#)  
+💼 [GitHub](#https://github.com/atharva-dev1) • [LinkedIn](#www.linkedin.com/in/atharvasharma2161) • 🌐 [Portfolio](#)  
 
 ---
 
