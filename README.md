@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 🚀 **About Me**  
 I’m a passionate and detail-oriented developer who enjoys transforming innovative ideas into high-performing, user-friendly digital products. I focus on building scalable full-stack applications with clean code, intuitive design, and seamless functionality. My goal is to craft meaningful digital experiences that combine technology, creativity, and precision.  
 
-![Coding gif](https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d656469612f7167515567674143335066763638377150432f67697068792e676966)
+
+<img width="1170" height="780" alt="image" src="https://github.com/user-attachments/assets/16715048-d700-4dd8-b40c-59b057057e43" />
 
 ---
 
