@@ -27,7 +27,12 @@ I’m a passionate and detail-oriented developer who enjoys transforming innovat
 
 🛠️ **Tech Stack**  
 **Frontend:** HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Bootstrap  
-**Backend:** Node.js • Express.js • NestJS • MongoDB   
+**Backend:** Node.js • Express.js • NestJS • MongoDB 
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 **Tools:** Git • GitHub • VS Code • Figma • Pycharm • Vercel • Lovable • Cursor 
 
 ---
