@@ -70,7 +70,7 @@ I’m a passionate and detail-oriented developer who enjoys transforming innovat
 
 📫 **Let’s Connect**  
 📧 Email: [2431560atharva@gmail.com](mailto:2431560atharva@gmail.com)  
-💼 [GitHub](https://github.com/atharva-dev1) • [LinkedIn](https://www.linkedin.com/in/atharva-sharma-775502324/) • 🌐 [Portfolio](https://atharva-dev1.github.io/Portfolio/)  
+🐈‍⬛ [GitHub](https://github.com/atharva-dev1) • ℹ️ [LinkedIn](https://www.linkedin.com/in/atharva-sharma-775502324/) • 🌐 [Portfolio](https://atharva-dev1.github.io/Portfolio/)  
 
 ---
 
