@@ -2,7 +2,7 @@
 # Hi 👋, I'm Atharva Sharma<br>**A passionate Full Stack Developer || BCA'27 ||  student @PSIT-CHE**<br><br>Email Me 👉 ✉️ **2431560atharva@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mr_sharmaji88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/atharvasharma2161) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@atharv_sharm8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2431560atharva@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mr_sharmaji88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-sharma-775502324/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@atharv_sharm8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2431560atharva@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
