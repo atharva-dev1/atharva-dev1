@@ -1,9 +1,15 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
+
+
+# Hi 👋, I'm Atharva Sharma<br>**A passionate Full Stack Developer || BCA'27 ||  student @PSIT-CHE**<br><br>
+<br>
  <!-- Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
 </p>
 
-# Hi 👋, I'm Atharva Sharma<br>**A passionate Full Stack Developer || BCA'27 ||  student @PSIT-CHE**<br><br>
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_sharmaji88?igsh=bzlzbHgxaHZ2eDYz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-sharma-775502324/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@atharv_sharm8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2431560atharva@gmail.com) 
 
