@@ -1,8 +1,49 @@
-# 💫 About Me:
-# Hi 👋, I'm Atharva Sharma<br>**A passionate Full Stack Developer || BCA'27 ||  student @PSIT-CHE**<br><br>Email Me 👉 ✉️ **2431560atharva@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+ <!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+</p>
 
-## 🌐 Socials:
+# Hi 👋, I'm Atharva Sharma<br>**A passionate Full Stack Developer || BCA'27 ||  student @PSIT-CHE**<br><br>
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_sharmaji88?igsh=bzlzbHgxaHZ2eDYz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-sharma-775502324/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@atharv_sharm8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2431560atharva@gmail.com) 
+
+<br>
+
+# 💻 Skills & Tools:
+ <!-- Skills and Tools-->
+---
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+      <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="45" alt="React JS logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript logo" />
+          <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
+          <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="45" alt="Node.js logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Tools gif">
+        </td>
+        <td>
+          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
+          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" alt="PyCharm logo" />
+          <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
+        </td>
+    </tr>
+</table>
+
+
 
 <!-- Snake Game Repo View -->
 
