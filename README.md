@@ -1,21 +1,47 @@
+<!--profile image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+  <img 
+    src="https://github.com/atharva-dev1/atharva-dev1/blob/main/profile_avatar.jpeg?raw=true"
+    alt="Profile Image"
+    width="220"
+    style="
+      border-radius: 50%;
+      padding: 6px;
+      background: radial-gradient(circle at top left, #e0f2ff, #ffffff);
+      border: 3px solid rgba(10,102,194,0.7);
+      box-shadow:
+        0 0 15px rgba(10,102,194,0.35),
+        0 0 35px rgba(10,102,194,0.25),
+        0 12px 30px rgba(0,0,0,0.25);
+    "
+  />
 </p>
 
-
-# Hi 👋, I'm Atharva Sharma<br>
+<!-- typing text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=1600&pause=400&color=39FF14&center=true&vCenter=true&width=1100&lines=Atharva+Sharma;Full+Stack+Developer;Frontend+Focused+Engineer;I+Build+Clean+Scalable+Web+Apps" />
+</p>
 <br>
- <!-- Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
-</p>
-
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# 👋 About Me
+
+I’m **Atharva Sharma**, a **Full Stack Developer** with strong focus on  
+**frontend architecture and real-world usability**.
+
+I don’t just make things *look good* —  
+I make them **work well, scale properly, and stay maintainable**.
+
+### What I care about:
+- ⚙️ clean component architecture  
+- 🎯 real user experience  
+- 🚀 performance & responsiveness  
+- 📦 production-ready code  
+
+---
 
 
 # 💻 Skills & Tools:
@@ -58,9 +84,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=atharva-dev1&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=atharva-dev1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-dev1&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atharva-dev1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
