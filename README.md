@@ -27,6 +27,29 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="./pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  
+</div>
+
+
 # 👋 About Me
 
 I’m **Atharva Sharma**, a **Full Stack Developer** with strong focus on  
