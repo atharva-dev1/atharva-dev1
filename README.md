@@ -1,21 +1,5 @@
-<!--profile image -->
-<p align="center">
-  <img 
-    src="https://github.com/atharva-dev1/atharva-dev1/blob/main/profile_avatar.jpeg?raw=true"
-    alt="Profile Image"
-    width="220"
-    style="
-      border-radius: 50%;
-      padding: 6px;
-      background: radial-gradient(circle at top left, #e0f2ff, #ffffff);
-      border: 3px solid rgba(10,102,194,0.7);
-      box-shadow:
-        0 0 15px rgba(10,102,194,0.35),
-        0 0 35px rgba(10,102,194,0.25),
-        0 12px 30px rgba(0,0,0,0.25);
-    "
-  />
-</p>
+<img width="4096" height="1024" alt="Gemini_Generated_Image_e0cexme0cexme0ce" src="https://github.com/user-attachments/assets/c62b3822-643d-4e9a-8493-3c3a56cb5943" />
+
 
 <!-- typing text -->
 <p align="center">
