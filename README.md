@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=1600&pause=400&color=39FF14&center=true&vCenter=true&width=1100&lines=Atharva+Sharma;Full+Stack+Developer;Frontend+Focused+Engineer;I+Build+Clean+Scalable+Web+Apps" />
 </p>
 <br>
-
-<br/>
 <div align="center">
   <!-- Pac-Man Contribution Graph -->
   <picture>
