@@ -7,8 +7,6 @@
 </p>
 <br>
 
-<img src="./section-game.svg" width="280"/>
-
 <br/>
 <div align="center">
   <!-- Pac-Man Contribution Graph -->
