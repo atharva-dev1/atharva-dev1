@@ -1,4 +1,4 @@
-<img width="4096" height="1024" alt="Gemini_Generated_Image_e0cexme0cexme0ce" src="https://github.com/atharva-dev1/assets/banner.png" />
+<img width="4096" height="1024" alt="banner" src="https://github.com/atharva-dev1/atharva-dev1/blob/main/banner.png" />
 
 <!-- typing text -->
 <p align="center">
